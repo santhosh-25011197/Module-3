@@ -29,3 +29,5 @@ remove(a,n)
 <img width="640" height="130" alt="image" src="https://github.com/user-attachments/assets/f6f5e2ff-305e-40ae-a849-2e18dca98e8e" />
 
 ## Result
+
+Thus,the program was implemented and executed successfully,and the required output was obtained.
